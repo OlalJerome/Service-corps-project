@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlalJerome
-- 👀 I’m interested in embedded system programming
-- 🌱 I’m currently learning C language
+- 👀 I’m a softare developer, ML engineer and embedded system developer
+- 🌱 I do front end and backend incorporating AI
 -
 - 📫 How to reach me on 2020bme105@std.must.ac.ug
 
